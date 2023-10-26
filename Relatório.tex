@@ -6,6 +6,8 @@
 \usepackage{array}
 \usepackage{pgfplots}
 \usepackage{graphicx}
+\usepackage{circuitikz}
+
 
 \pagestyle{fancy}
 \fancyhf{}
@@ -151,5 +153,24 @@ i \pm \Delta i &= 0.141 \pm 0.005 \, \text{A}
 \end{align*}
 
 Observamos que a soma das correntes em resistores em paralelo (\(0.141 \pm 0.010\) A) está dentro do intervalo da corrente total medida na saída da fonte de tensão (\(0.141 \pm 0.005\) A). Portanto, concluímos que a Lei dos Nós é satisfeita, e a análise das medições corrobora esse princípio fundamental em circuitos elétricos.
+
+\section{Associação mista}
+
+\begin{center}
+    \begin{circuitikz}
+        \draw (0,0) to[battery1, v=$V$] (0,3);
+        \draw (0,3) to[R, l=$R1$] (2,3);
+        \draw (2,3) to[short, *-] (2,4);
+        \draw (2,4) to[R, l=$R2$] (4,4);
+        \draw (2,3) to[short, *-] (2,2);
+        \draw (2,2) to[R, l=$R3$] (4,2);
+        \draw (4,4) to[short, -*] (4,2);
+        \draw (4,2) to[short, -*] (4,0);
+        \draw (4,0) to[short] (0,0);
+      \end{circuitikz}
+       
+\end{center}
+
   
+
 \end{document}
