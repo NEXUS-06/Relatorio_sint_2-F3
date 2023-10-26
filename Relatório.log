@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2023.10.25)  26 OCT 2023 00:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2023.10.25)  26 OCT 2023 10:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -424,20 +424,20 @@ File: pgflibraryplotmarks.code.tex 2020/12/27 v3.1.8b (3.1.8b)
 ))) (/home/matheus/Documentos/LateX docs/Relatorio_sint_2-F3/Relatório.aux)
 \openout1 = `Relatório.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -498,34 +498,35 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable tick labels; missing features). Consider writing \pgfplotsset{compat=1.17} into your preamble.
- on input line 17.
+ on input line 16.
 
 <Associação dos resistores em série.png, id=4, 605.26125pt x 374.39874pt>
 File: Associação dos resistores em série.png Graphic file (type png)
 <use Associação dos resistores em série.png>
-Package pdftex.def Info: Associação dos resistores em série.png  used on input line 88.
+Package pdftex.def Info: Associação dos resistores em série.png  used on input line 90.
 (pdftex.def)             Requested size: 234.8775pt x 145.28938pt.
-<Associação de resistores em paralelo.png, id=5, 603.25375pt x 373.395pt>
-File: Associação de resistores em paralelo.png Graphic file (type png)
-<use Associação de resistores em paralelo.png>
-Package pdftex.def Info: Associação de resistores em paralelo.png  used on input line 95.
-(pdftex.def)             Requested size: 234.8775pt x 145.37846pt.
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
- </home/matheus/Documentos/LateX docs/Relatorio_sint_2-F3/Associação dos resistores em série.png>] [2 </home/matheus/Documentos/LateX docs/Relatorio_sint_2-F3/Associação de resistores em paralelo.png>] (/home/matheus/Documentos/LateX docs/Relatorio_sint_2-F3/Relatório.aux) ) 
+ </home/matheus/Documentos/LateX docs/Relatorio_sint_2-F3/Associação dos resistores em série.png>]
+<Associação de resistores em paralelo.png, id=18, 603.25375pt x 373.395pt>
+File: Associação de resistores em paralelo.png Graphic file (type png)
+<use Associação de resistores em paralelo.png>
+Package pdftex.def Info: Associação de resistores em paralelo.png  used on input line 123.
+(pdftex.def)             Requested size: 234.8775pt x 145.37846pt.
+ [2 </home/matheus/Documentos/LateX docs/Relatorio_sint_2-F3/Associação de resistores em paralelo.png>] [3] (/home/matheus/Documentos/LateX docs/Relatorio_sint_2-F3/Relatório.aux) ) 
 Here is how much of TeX's memory you used:
- 25156 strings out of 481159
- 660620 string characters out of 5913524
- 1074409 words of memory out of 5000000
- 41739 multiletter control sequences out of 15000+600000
+ 25158 strings out of 481159
+ 660636 string characters out of 5913524
+ 1074411 words of memory out of 5000000
+ 41741 multiletter control sequences out of 15000+600000
  407752 words of font info for 43 fonts, out of 8000000 for 9000
  61 hyphenation exceptions out of 8191
- 102i,11n,103p,785b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 102i,12n,103p,785b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/matheus/.texlive2020/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on "/home/matheus/Documentos/LateX docs/Relatorio_sint_2-F3/Relatório.pdf" (2 pages, 97837 bytes).
+Output written on "/home/matheus/Documentos/LateX docs/Relatorio_sint_2-F3/Relatório.pdf" (3 pages, 105935 bytes).
 PDF statistics:
- 49 PDF objects out of 1000 (max. 8388607)
- 34 compressed objects within 1 object stream
+ 52 PDF objects out of 1000 (max. 8388607)
+ 36 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 

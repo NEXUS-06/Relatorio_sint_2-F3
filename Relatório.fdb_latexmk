@@ -1,9 +1,9 @@
 # Fdb version 3
-["pdflatex"] 1698291417 "/home/matheus/Documentos/LateX docs/Relatorio_sint_2-F3/Relatório.tex" "/home/matheus/Documentos/LateX docs/Relatorio_sint_2-F3/Relatório.pdf" "Relatório" 1698291418
+["pdflatex"] 1698327242 "/home/matheus/Documentos/LateX docs/Relatorio_sint_2-F3/Relatório.tex" "/home/matheus/Documentos/LateX docs/Relatorio_sint_2-F3/Relatório.pdf" "Relatório" 1698327243
   "/etc/texmf/web2c/texmf.cnf" 1685207660 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/matheus/.texlive2020/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600pk" 1698114519 11524 668cd98a04e79d35273138557411f285 ""
-  "/home/matheus/Documentos/LateX docs/Relatorio_sint_2-F3/Relatório.aux" 1698291418 758 573d8b64f70f8fee307d862ee367c5b6 ""
-  "/home/matheus/Documentos/LateX docs/Relatorio_sint_2-F3/Relatório.tex" 1698291415 3342 673ed4419687ccb150fd133e9621834f ""
+  "/home/matheus/Documentos/LateX docs/Relatorio_sint_2-F3/Relatório.aux" 1698327243 1064 de744009619350cb30db170d8884ab2d ""
+  "/home/matheus/Documentos/LateX docs/Relatorio_sint_2-F3/Relatório.tex" 1698327240 6781 c73b4ffa69584f7291e891b3ca6696cf ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -164,11 +164,11 @@
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1698254606 1314290 ae2f2f785997a3effbf8350cf3ae4ff0 ""
   "Associação de resistores em paralelo.png" 1698290803 11487 667a3dac024cb58f8d162accd82b4900 ""
   "Associação dos resistores em série.png" 1698290435 10972 01f6654e6d74602f1f6dbfa31f35c3cc ""
-  "Relatório.aux" 1698291418 758 573d8b64f70f8fee307d862ee367c5b6 "pdflatex"
-  "Relatório.tex" 1698291415 3342 673ed4419687ccb150fd133e9621834f ""
+  "Relatório.aux" 1698327243 1064 de744009619350cb30db170d8884ab2d "pdflatex"
+  "Relatório.tex" 1698327240 6781 c73b4ffa69584f7291e891b3ca6696cf ""
   (generated)
   "Relatório.pdf"
-  "Relatório.log"
   "/home/matheus/Documentos/LateX docs/Relatorio_sint_2-F3/Relatório.pdf"
   "Relatório.aux"
+  "Relatório.log"
   "/home/matheus/Documentos/LateX docs/Relatorio_sint_2-F3/Relatório.log"

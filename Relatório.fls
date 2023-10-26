@@ -605,13 +605,13 @@ INPUT /home/matheus/Documentos/LateX docs/Relatorio_sint_2-F3/Associação dos r
 INPUT /home/matheus/Documentos/LateX docs/Relatorio_sint_2-F3/Associação dos resistores em série.png
 OUTPUT /home/matheus/Documentos/LateX docs/Relatorio_sint_2-F3/Relatório.pdf
 INPUT /home/matheus/Documentos/LateX docs/Relatorio_sint_2-F3/Associação dos resistores em série.png
-INPUT /home/matheus/Documentos/LateX docs/Relatorio_sint_2-F3/Associação de resistores em paralelo.png
-INPUT /home/matheus/Documentos/LateX docs/Relatorio_sint_2-F3/Associação de resistores em paralelo.png
-INPUT /home/matheus/Documentos/LateX docs/Relatorio_sint_2-F3/Associação de resistores em paralelo.png
-INPUT /home/matheus/Documentos/LateX docs/Relatorio_sint_2-F3/Associação de resistores em paralelo.png
-INPUT /home/matheus/Documentos/LateX docs/Relatorio_sint_2-F3/Associação de resistores em paralelo.png
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm
 INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
+INPUT /home/matheus/Documentos/LateX docs/Relatorio_sint_2-F3/Associação de resistores em paralelo.png
+INPUT /home/matheus/Documentos/LateX docs/Relatorio_sint_2-F3/Associação de resistores em paralelo.png
+INPUT /home/matheus/Documentos/LateX docs/Relatorio_sint_2-F3/Associação de resistores em paralelo.png
+INPUT /home/matheus/Documentos/LateX docs/Relatorio_sint_2-F3/Associação de resistores em paralelo.png
+INPUT /home/matheus/Documentos/LateX docs/Relatorio_sint_2-F3/Associação de resistores em paralelo.png
 INPUT /home/matheus/Documentos/LateX docs/Relatorio_sint_2-F3/Relatório.aux
 INPUT /home/matheus/.texlive2020/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600pk
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
